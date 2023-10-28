@@ -42,6 +42,7 @@
 导入接口供访问操作的构件使用。
 
 ![例題1](https://github.com/curryluku/UML-Component-Diagram/assets/91310381/c44af40b-a499-4db9-92a3-dc7684864507)
-![例題2](https://github.com/curryluku/UML-Component-Diagram/assets/91310381/8ec0a9e5-f761-4eac-8ead-2abf7b490b3f)
+![例題2](https://github.com/curryluku/UML-Component-Diagram/assets/91310381/dba247d0-e71d-452d-a65e-912735d37877)
+
 
 實作圖於https://drive.google.com/file/d/1dTb3IRKANY6XDBcHPHu95n1cLvJT1_P5/view?usp=sharing
